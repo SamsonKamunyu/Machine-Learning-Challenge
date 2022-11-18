@@ -1,0 +1,9 @@
+MACHINE LEARNING END TO END WITH DEPLOYMENT
+1. Create a new environment using 'Anaconda Prompt'(machinelearningdep)---3.9.(Google create anaconda environment)
+2. Activate the new environment.
+3. Go to working directory and launch jupyter notebook.
+4. Create your new notebook.
+5. 
+IMPORTANT
+Create the requirement.dxt
+
